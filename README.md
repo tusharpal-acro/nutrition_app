@@ -37,7 +37,7 @@ The server is running now, and you will get the URL in terminal, like below -
 
 http://localhost:8000/
 
-PLEASE FIND API DOCUMENT NAMES 'api doc.odt' IN THE SAME PROJECT FOLDER.
+PLEASE FIND API DOCUMENT NAMED 'api doc.odt' IN THE SAME PROJECT FOLDER.
 
 YOU WILL FIND ALL THE API ENDPOINTS IN THE DOCUMENT. 
 
